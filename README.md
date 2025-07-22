@@ -10,21 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyagupta119809&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyagupta119809&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagupta119809&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
-
 🎓 I'm **Shreya Gupta**, an aspiring AI/ML Engineer passionate about creating smart and impactful solutions using data and machine learning.  
 🧠 I thrive on solving real-world problems and love learning every step of the way.
 
