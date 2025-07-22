@@ -1,11 +1,11 @@
-# # 👩‍💻 About Me
+# 👩‍💻 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=1200&lines=HI!!+👋+I'M+SHREYA+GUPTA;ML+ENTHUSIAST+%7C+AI+EXPLORER;PYTHON+%7C+NLP+%7C+DATA+SCIENCE;OPEN+SOURCE+CONTRIBUTOR;LET'S+BUILD+TOGETHER!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/shreyagupta119809/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=shreyagupta119809&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
