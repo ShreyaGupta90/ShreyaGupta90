@@ -30,9 +30,8 @@ I'm currently focused on real-world projects in AI/ML and contributing to open-s
 
 I'm always open to new opportunities and collaborations.
 
-- 📫 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 🌐 Portfolio: [your-portfolio-link.com](#)
+- 📫 Email: [shreyagupta119809@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/shreya-gupta-2a6a292ab](#)  
 
 ---
 
