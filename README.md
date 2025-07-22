@@ -6,36 +6,74 @@
 
 ---
 
-Hello! I'm **Shreya Gupta**, a passionate Machine Learning enthusiast and aspiring AI engineer.  
-I'm driven by curiosity and a deep interest in creating data-driven solutions using the power of Artificial Intelligence and Machine Learning.
+🎓 I'm **Shreya Gupta**, a passionate Machine Learning enthusiast and aspiring AI engineer.  
+🚀 I love building intelligent systems and contributing to real-world projects.  
+💡 Currently focused on AI/ML, NLP, and Open Source Contributions.  
 
-🤖 I love coding, experimenting with new ideas, and sharing my learnings.  
-I'm currently focused on real-world projects in AI/ML and contributing to open-source communities.
+---
+
+## 🌐 Connect with Me 🤝
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-2a6a292ab)  
+[![Gmail](https://img.shields.io/badge/-shreyagupta119809@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyagupta119809@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 👩‍💻 Languages & Libraries
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python)
+
+### 🛠️ Tools & IDEs
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-## 🤝 Let's Connect!
+## 🏆 Achievements
 
-I'm always open to new opportunities and collaborations.
-
-- 📫 Email: [shreyagupta119809@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/shreya-gupta-2a6a292ab](#)  
+- 🥇 Problem Solver Bronze Badge on CodeChef  
+- 🌱 Completed 36-hour HackHeist Hackathon  
+- 🧠 Microsoft AI Fundamentals & Azure AI Certified  
+- 🥈 Silver League @Coding Ninjas | Global Rank 7  
 
 ---
 
-### 🤝 Let’s Build & Learn Together!
-> “Learning never exhausts the mind — it fuels creation.”
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyagupta119809&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyagupta119809&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📚 My Coding Journey
+
+- 💻 Started with Python, explored C, C++, SQL  
+- 🚀 Now learning R & exploring Generative AI  
+- 🔁 Regular participant in challenges (Coding Ninjas, CodeChef)
+
+---
+
+## 🌍 Outside Tech
+
+- 🧘‍♀️ Nature lover, mantra chanter  
+- 📚 Passionate reader  
+- 🌐 Loves exploring new cultures through language (Learning German & Russian)
+
+---
+
+### ✨ Let’s Build & Learn Together!
+> _“Learning never exhausts the mind — it fuels creation.”_
 
 ---
