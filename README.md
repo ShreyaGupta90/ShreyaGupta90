@@ -1,8 +1,9 @@
 # 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi!!+👋+I%27m+Shreya+Gupta;ML+Enthusiast+%7C+AI+Explorer;Python+%7C+NLP+%7C+Data+Science;Open+Source+Contributor;Let%27s+Build+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi!!+👋+I'm+Shreya+Gupta;ML+Enthusiast+%7C+AI+Explorer;Python+%7C+NLP+%7C+Data+Science;Open+Source+Contributor;Let's+Build+Together!" alt="Typing SVG" />
 </p>
+
 
 ---
 
