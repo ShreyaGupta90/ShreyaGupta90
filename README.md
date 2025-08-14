@@ -66,7 +66,7 @@
 ## 🌍 Outside Tech
 
 - 🧘‍♀️ Spiritual soul who loves nature and mantra chanting  
-- 📚 Curious reader & language learner (German & Russian)
+- 📚 Curious reader 
 
 ---
 
