@@ -57,8 +57,8 @@
 
 ## 📚 My Coding Journey
 
-- 💻 Started with Python, explored C, C++, SQL  
-- 🌱 Learning R and diving into Generative AI  
+- 💻 Started with Python, explored C, C++, C#, SQL, HTML, Java
+- 🌱 Learning Dl and diving into Generative AI  
 - 🎯 Solving challenges daily on CodeChef & Coding Ninjas
 
 ---
