@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-2a6a292ab)  
-[![Gmail](https://img.shields.io/badge/-shreyagupta119809@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)]
+[![Gmail](https://img.shields.io/badge/-shreyagupta119809@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyagupta119809@gmail.com)
 
 ---
 
